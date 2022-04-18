@@ -1,0 +1,139 @@
+{"stimMetadata": {
+    "path": "",
+    "psychoPy": {
+      "stims": {
+        "blackScreen": {},
+        "driftingGrating": {
+          "fields": ["animalOrientation",
+            "centerPoint",
+            "contrast",
+            "changeDirectionAt",
+            "doBlank",
+            "dutyCycle",
+            "foregroundColor",
+            "initialDelay",
+            "isi",
+            "isRandom",
+            "maxv",
+            "minv",
+            "numTrials",
+            "randomizePhase",
+            "spatialFreq",
+            "startingPhase",
+            "stimDuration",
+            "stimSize",
+            "temporalFreq",
+            "textureType"
+          ],
+          "supplements": {
+            "file": "startingPhases.txt"
+          }
+        },
+        "continuousBar_withTriggers":{
+         "fields": ["numberOfTrials",
+          "movementPeriod",
+          "initialDelay",
+          "stimID"
+
+         ]
+        },
+        "fullScreenFlash": {
+          "fields": ["flashInterval",
+            "initialDelay",
+            "isi",
+            "lum0",
+            "lum1",
+            "numTrials"
+          ]
+        },
+        "GliderFromMovie": {
+          "fields": ["numTrials",
+            "doBlank",
+            "nBlank",
+            "targetDeg",
+            "targetFreq",
+            "stimDuration",
+            "isi",
+            "initialDelay",
+            "isRandom",
+            "gliderType",
+            "parity",
+            "diverging",
+            "headangle",
+            "randomizeMovie"
+          ]
+        },
+        "waveletStim_forJoe": {
+          "fields": [
+            "Iname",
+            "repeats",
+            "interRepeatInt",
+            "interMovieInt",
+            "stimFramesPerTrial",
+            "movies"
+          ]
+        },
+        "continuousEdge_withOrientationsAndTriggers": {
+          "fields": ["numOrientations",
+            "animalOrientation",
+            "barColor",
+            "backGroundColor",
+            "backGroundBarColor",
+            "isRandom",
+            "edgeWidth",
+            "centerPoint",
+            "numberOfTrials",
+            "initialDelay",
+            "movementPeriod",
+            "animalName"
+          ]
+        },
+        "driftingGrating_OD_shutter": {
+          "fields": ["numOrientations",
+            "numTrials",
+            "doBlank",
+            "changeDirectionAt",
+            "stimDuration",
+            "isi",
+            "isRandom",
+            "stimSize",
+            "temporalFreq",
+            "spatialFreq",
+            "contrast",
+            "textureType"
+          ]
+        },
+        "waveletStim_randomSequence": {
+          "fields": ["animalName",
+            "stiminfo",
+            "repeats",
+            "numFrames",
+            "stimDur",
+            "randoSeed"
+          ]
+        },
+        "disparityGratingfrontoparallel_epi_GS": {
+          "fields": ["numphases",
+            "numTrials",
+            "doBlank",
+            "changeDirectionAt",
+            "stimDuration",
+            "isi",
+            "isRandom",
+            "initialDelay",
+            "temporalFreq",
+            "spatialFreq",
+            "contrast",
+            "textureType",
+            "stimSize",
+            "centerpos",
+            "doBothDirs"
+          ]
+        }
+       
+      },
+      "monitors": {
+      }
+    }
+  }
+}

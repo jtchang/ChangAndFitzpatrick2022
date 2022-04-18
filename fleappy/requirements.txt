@@ -1,0 +1,26 @@
+
+imageio==2.5
+JPype1==1.3.0
+matplotlib==3.1
+natsort==5.5.0
+nbsphinx==0.4.2
+numba==0.51.0
+numpy == 1.20.1 
+opencv-python==3.4.3.18
+pandas>=0.24.2
+PIMS==0.4.1
+pushbullet.py==0.11.0
+python-dotenv==0.9.1
+read-roi==1.4.2
+roifile==2021.6.6
+scikit-image==0.17.2
+scipy>=1.4
+sphinx_rtd_theme==0.4.1
+sphinxcontrib-apidoc==0.3.0
+tifffile==2021.11.2
+psutil==5.6.3
+pyQt5>=5.12.3
+h5py==2.10.0
+dask-image==0.6.0
+dask==2021.12.0
+dask-ml==2021.11.30
